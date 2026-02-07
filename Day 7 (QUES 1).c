@@ -13,3 +13,5 @@ int main() {
     scanf("%d", &n);
     printf("%d", fib(n));
     return 0;
+}
+
